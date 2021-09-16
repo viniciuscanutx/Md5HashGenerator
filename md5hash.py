@@ -10,3 +10,5 @@ result = hashlib.md5(textoinit.encode()) #Resultado da conversão do encode.
 print("O seu texto em md5 é: ", end ="")#O Que mostra seu md5 na tela.
 print(result.hexdigest()) #Print que mostra o resultado na tela do usuário..
 
+#Correção para não finalizar o programa de uma vez.
+input()
