@@ -18,6 +18,7 @@ Aqui vamos fazer um conversor de texto para MD5.
 
 6 - Antes, vamos compilar esse programa para um EXE usando o Pyinstaller. \\ Biblioteca pyinstaller, instalada pelo comando pip.
 
+
 Bibliotecas Usadas: 
 
 Hashlib
@@ -33,6 +34,12 @@ Hashlib
 3 - Comentários feitos de maneira mais eficaz para não confundir quem ler o código
 
 4 - 100% funcional e sem bugs
+
+
+Bibliotecas Usadas: 
+Hashlib 
+Rich
+Time
 
 
 -------------- V 3.0 --------------
