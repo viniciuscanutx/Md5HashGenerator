@@ -37,8 +37,11 @@ Hashlib
 
 
 Bibliotecas Usadas: 
+
 Hashlib 
+
 Rich
+
 Time
 
 
