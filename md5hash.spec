@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['Md5HashGenerator.py'],
-             pathex=['C:\\Users\\Vini\\Documents\\Projects\\MD5 Project py'],
+             pathex=['],
              binaries=[],
              datas=[],
              hiddenimports=[],
