@@ -4,6 +4,8 @@ Aqui vamos fazer um conversor de texto para MD5.
 
 #VamosLá!
 
+-------------- V 1.0 --------------
+
 1 - Começando o projeto \\ 14:00 16/09/2021
 
 2 - Estrutura do Projeto Feita \\ 14:17 16/09/2021
@@ -15,5 +17,23 @@ Aqui vamos fazer um conversor de texto para MD5.
 5 - E se fizessemos uma interface para esse projeto? \\ Vamos começar pela Interface.
 
 6 - Antes, vamos compilar esse programa para um EXE usando o Pyinstaller. \\ Biblioteca pyinstaller, instalada pelo comando pip.
+
+Bibliotecas Usadas: 
+
+Hashlib
+
+
+-------------- V 2.0 --------------
+
+1 - Implementação de uma progressbar e uma nova biblioteca
+2 - Novas implementações de escolha
+3 - Comentários feitos de maneira mais eficaz para não confundir quem ler o código
+4 - 100% funcional e sem bugs
+
+-------------- V 3.0 --------------
+
+
+
+
 
 
