@@ -48,6 +48,7 @@ Time
 -------------- V 3.0 --------------
 
 2 - O programa adiciona um arquivo que salva automaticamente o seu string e seu md5 em txt
+
 3 - Implementações de código
 
 
